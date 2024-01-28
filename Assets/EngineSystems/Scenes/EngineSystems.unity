@@ -155,6 +155,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 968964483295990184, guid: b2406abb629933343bd3f0b6a9f3913e, type: 3}
+      propertyPath: sfxSettings
+      value: 
+      objectReference: {fileID: 11400000, guid: a82e78554ed4bf946a62fa033513a026, type: 2}
     - target: {fileID: 1317833093934125513, guid: b2406abb629933343bd3f0b6a9f3913e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -223,6 +227,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5917825592102018118, guid: b2406abb629933343bd3f0b6a9f3913e, type: 3}
+      propertyPath: musicSettings
+      value: 
+      objectReference: {fileID: 11400000, guid: 9d71bf1883605a04b9bd356806b61885, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

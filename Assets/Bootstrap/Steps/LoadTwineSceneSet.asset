@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7b6ff073923387441b9ebbbf80bd5b1c, type: 3}
-  m_Name: LoadEngineSystemsSceneSet
+  m_Name: LoadTwineSceneSet
   m_EditorClassIdentifier: 
   showOutputInLoadingScreen: 0
-  sceneSet: {fileID: 11400000, guid: 40bfe04a3ce0d394a881d12975d5ea56, type: 2}
-  loadSceneMode: 1
+  sceneSet: {fileID: 11400000, guid: 8714ae05361f8d04fac96423b23703ca, type: 2}
+  loadSceneMode: 0
   unloadUnusedAssets: 1
   onContextLoadedEvent: {fileID: 0}
   contextProvider: {fileID: 0}
