@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fe69b9c42687084386a47620586f999, type: 3}
+  m_Name: AllPlatformSettings
+  m_EditorClassIdentifier: 
+  m_iOSDebug: {fileID: 11400000, guid: b38eb2fb8c1a3064cb555a8fcd914842, type: 2}
+  m_iOSRelease: {fileID: 11400000, guid: ad0f58a1f8ac8b440a964ab337399002, type: 2}
+  m_androidDebug: {fileID: 11400000, guid: 4a02163560442154c8026292aa12b73d, type: 2}
+  m_androidReleaseApk: {fileID: 11400000, guid: 4d6378d775dd8054685170324525c9f1, type: 2}
+  m_androidReleaseBundle: {fileID: 11400000, guid: 5f4397bb29a86cf409a7938fabceec0d, type: 2}
+  m_windowsDebug: {fileID: 11400000, guid: 24fd3215502729e459ba78aa54cea8eb, type: 2}
+  m_windowsRelease: {fileID: 11400000, guid: 385aa90f8b9f03a468b0f141c86be824, type: 2}
+  m_webGLDebug: {fileID: 11400000, guid: 27fb2e5e918199844bfe6d9ea60abe24, type: 2}
+  m_webGLRelease: {fileID: 11400000, guid: 373ab6cbaf7d777499888feb31cf8958, type: 2}

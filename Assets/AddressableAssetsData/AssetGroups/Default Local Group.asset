@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ead9d0b4baafb484b9bbf510d61fb361
+  m_SerializeEntries:
+  - m_GUID: cb1ae6fee88009f45b47da8eb4ab3c3d
+    m_Address: Loading
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd6d3f7075912664291708bc60cdd614
+    m_Address: EngineSystems
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40bfe04a3ce0d394a881d12975d5ea56
+    m_Address: Assets/EngineSystems/Scenes/EngineSystemsSceneSet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f522e58df50dcce498dd409adbd56779
+    m_Address: Assets/Bootstrap/Steps/LoadEngineSystemsSceneSet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b99b28bb26d4964ca35c918c0588a27
+    m_Address: Assets/Bootstrap/Steps/BootstrapLoadJob.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb97b8612f4f7284a8fe8cff27ea82c0
+    m_Address: Bootstrap
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d1f435b4cfa4084dbe27ade0afba65a
+    m_Address: Assets/Bootstrap/Scenes/BootstrapSceneSet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: a29c339ed5eacd844b33994f306da509, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2d53685d5c91e1d4ba99e1435f6e9859, type: 2}
+    - {fileID: 11400000, guid: d5a0bff594c94824585bea785b4648cc, type: 2}
