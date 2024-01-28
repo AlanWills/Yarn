@@ -1,3 +1,6 @@
 [submodule "Packages/celeste"]
 	path = Packages/com.celestegames.celeste
 	url = git@github.com:AlanWills/CelesteUnity.git
+[submodule "Packages/com.celestegames.celeste"]
+	path = Packages/com.celestegames.celeste
+	url = git@github.com:AlanWills/CelesteUnity.git
