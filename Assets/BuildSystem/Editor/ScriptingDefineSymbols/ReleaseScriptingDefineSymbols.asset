@@ -14,5 +14,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   items:
   - ENABLE_INPUT_SYSTEM
-  - UNITY_ADS
-  - GOOGLE_PLAY_GAMES
