@@ -52,6 +52,16 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 827532d740637634bb22ffa26ab89a21
+    m_Address: Twine
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea3aff85a1f9b9343a4d5240b3105e68
+    m_Address: TwineDebug
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: a29c339ed5eacd844b33994f306da509, type: 2}
   m_SchemaSet:
