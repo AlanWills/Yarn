@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.celestegames.celeste": {
-      "version": "git@github.com:AlanWills/CelesteUnity.git",
+      "version": "file:com.celestegames.celeste",
       "depth": 0,
-      "source": "git",
+      "source": "embedded",
       "dependencies": {
         "com.unity.addressables": "1.19.19",
         "com.unity.editorcoroutines": "1.0.0",
@@ -12,8 +12,7 @@
         "com.unity.ads": "4.4.1",
         "com.unity.mobile.notifications": "2.1.1",
         "com.unity.remote-config": "3.3.2"
-      },
-      "hash": "f360f7dbf61e94cb382083041a712afda5f1b556"
+      }
     },
     "com.unity.2d.animation": {
       "version": "9.0.4",
