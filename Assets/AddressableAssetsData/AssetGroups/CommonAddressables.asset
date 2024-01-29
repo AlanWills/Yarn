@@ -170,6 +170,512 @@ MonoBehaviour:
   - m_GUID: 50039586d3d71834c8dbb6af9cae319c
     m_Address: Packages/com.celestegames.celeste/Debug/Data/Parameters/IsDebugBuild.asset
     m_ReadOnly: 0
+    m_SerializedLabels:
+    - CommonAddressables
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8714ae05361f8d04fac96423b23703ca
+    m_Address: Assets/Twine/Scenes/TwineSceneSet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c81e196732906064ba6a2eeef2b9a813
+    m_Address: Assets/Bootstrap/Steps/LoadTwineSceneSet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e7b5be737ebf304d810f9f471827721
+    m_Address: Packages/com.celestegames.celeste/Loading/Textures/LoadingIcon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d88521bd0e0adee4990183113913fb96
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/WhitePixel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4df08a0036df31b42bcc5386f44213ae
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/DisableInput.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4267ee0495522b748b2932da05a16789
+    m_Address: Packages/com.celestegames.celeste/Loading/Events/LoadContext.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d3765d541679ce41a0c39e1f1aa9e14
+    m_Address: Packages/com.celestegames.celeste/Loading/Data/UI/CanvasLayers/LoadingCanvasLayer.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d741abe51cde02a42837ddd5a95b1a2f
+    m_Address: Packages/com.celestegames.celeste/Loading/Events/ExecuteLoadJobWithOverlay.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e1ad3c596fdd9ab459e8ccb8682786ef
+    m_Address: Packages/com.celestegames.celeste/Loading/Events/ExecuteLoadJobWithScreen.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cd7c5afb04e8b74ca6375f2de930860
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/EnableInput.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bbbeee5eb7962f469508500014d28d1
+    m_Address: Packages/com.celestegames.celeste/Debug/Prefabs/HudLogMessage.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eec3a1103b8f0a64c80b822396322e3b
+    m_Address: Packages/com.celestegames.celeste/Debug/DebugMenuGuiSkin.guiskin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80d21d9030dfeee4ab10e4c4d0c06dc2
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/LeftMouseButtonDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a819ea16b858ac49b37e65c28d077b0
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/RightMouseButtonFirstUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e072b4e1cada7494abfca4fd05243d87
+    m_Address: Packages/com.celestegames.celeste/Log/Data/Debug/ConsoleHudLog.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a5bff42381e5f64d977d85a4d6ec74d
+    m_Address: Packages/com.celestegames.celeste/Log/Data/Debug/HudLogDebugMenu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a02d3721e635fe478c0a4b4d09996c5
+    m_Address: Packages/com.celestegames.celeste/Log/Data/HudLogMessageList.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35df2653bb4bc9640b6b240cf7db8e8f
+    m_Address: Packages/com.celestegames.celeste/UI/Data/PopupRecord.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b044a9344308e84ab49dbcf4963122b
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/DoubleTouch.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 336f81c3a6c4a884da2c84226035a332
+    m_Address: Packages/com.celestegames.celeste/Debug/Data/CelesteDebug.inputactions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e290b34eef0f91418a4df22daca22b0
+    m_Address: Packages/com.celestegames.celeste/Debug/Events/DeregisterDebugMenu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15b9eca4d3a0b3044923f2861faa7254
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/RightMouseButtonDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74f2db1510282b341a73c9fd67e77aa9
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/GameObjectMiddleClicked.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79743135f00c957458a1a77387dbb95f
+    m_Address: Packages/com.celestegames.celeste/Application/Data/Parameters/IsEditor.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13b1cee57fbb72f44a516ef604d57345
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/RightMouseButtonFirstDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6895ef2659e19aa4e9ba8b4d1103db5b
+    m_Address: Packages/com.celestegames.celeste/Debug/Events/ExecuteDebugCommand.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89fd7b6638f171148b609b0ef1eb3d1a
+    m_Address: Packages/com.celestegames.celeste/Assets/Data/Debug/AssetsDebugMenu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8e41487b26e73a4a8c520f166a1d589
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/MouseScrolled.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baf62d873a193dc4eba9f512a3cddf97
+    m_Address: Packages/com.celestegames.celeste/Features/Debug/FeaturesDebugMenu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e0f99d77fe7e284b98c11650a91e607
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/LeftMouseButtonFirstDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a70d2ad7caf24ba4c8d6bd16fd4f8958
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/MiddleMouseButtonDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d0dd8082f5d9f14cae4daf109e914b0
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/LeftMouseButtonFirstUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10ba0f09655a5f243b414d2b64c32ed8
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/TripleTouch.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8294e469dc48dcd48bef4ac737260cf9
+    m_Address: Packages/com.celestegames.celeste/Input/Data/InputState.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca9f5fa95ffab41fb9a615ab714db018
+    m_Address: Packages/com.unity.inputsystem/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8954835a3daa091448c55ded799a96f5
+    m_Address: Packages/com.celestegames.celeste/Application/Debug/ConsoleApplication.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14ae487a7b0d7524e8df71e5b3255874
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Parameters/InputCamera.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc1369bb8eb49fb46838fcde447aed29
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/GameObjectRightClicked.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f2474eb881194b4197d8defc9a123bb
+    m_Address: Packages/com.celestegames.celeste/Debug/Events/RegisterDebugMenu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 563148fb673d6dc4dafd34d657d1bf33
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/MouseMoved.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3aa7b1cee5289041a03094b573b5bf5
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/MiddleMouseButtonFirstUp.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ed9008c9f02d0a468e3b188c757ef49
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/MiddleMouseButtonFirstDown.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a82179c33ce5814db9bd7870e0c1224
+    m_Address: Packages/com.celestegames.celeste/Core/Data/ScheduledCallbacks.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e60b11d2a4389641b69eadaf7d97ecd
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/SingleTouch.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 852200ae2d7568d4db0f873394efc2ed
+    m_Address: Packages/com.celestegames.celeste/Application/Debug/ApplicationDebugMenu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b495450fc775e7d498d22df43175912f
+    m_Address: Packages/com.celestegames.celeste/Debug/Events/DebugCommandExecuted.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56ecc82f2b636624da9110ce5586c9b4
+    m_Address: Packages/com.celestegames.celeste/Application/Data/Parameters/IsMobile.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d2bbbcfeec825142a3344fe962761b5
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/GameObjectLeftClicked.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab881b82897d13e4586a10be2790acdb
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/PointerExitedGameObject.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31b2d114fac3d2c42b59d3442377c868
+    m_Address: Packages/com.celestegames.celeste/Features/Data/FeatureRecord.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18d131f46cfdfc042b3309fedecc35a4
+    m_Address: Packages/com.celestegames.celeste/Input/Data/Events/PointerEnteredGameObject.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4405f4b88c220d49b1dbc973891e689
+    m_Address: Packages/com.celestegames.celeste/Debug/Textures/DebugGuiBackground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e028264ef31f61f40bb1c7d0f629dffd
+    m_Address: Packages/com.celestegames.celeste/Features/Events/SaveFeatureRecord.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d17d41168d094346958e72f5338c001
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button04.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ea6e6252d2a24b4ca5736370507ed2b
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/red_button02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 434ae765cd1dbc8489e7bee089f748cf
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/red_button01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21d2e3a6842575c42be807d8b6a85cb3
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_boxCross.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ddbcea6f22ca284d8d40f27c6f97ce8
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button02.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 113d5207b0624fe40a5a3d06694550c2
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button05.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6fff048819e0a843b00ba1181bbc415
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button03.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b6c70a0b7a818843abd4a56082868df
+    m_Address: Packages/com.celestegames.celeste/Twine/Prefabs/UI/FollowLinkUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d1bc231cce3b374ebfdfcfec8a6794c
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/OnTwineContextLoadedEvent.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bb69761bdee7fc4b8ec57cb42751604
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/OnTwineNodeAddedToStory.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8cd29d5ec90b5b4ab81a6ed8ff27682
+    m_Address: Packages/com.celestegames.celeste/Twine/Data/UI/TwineNodeUIControllerSettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1da5ab696b63754eb8658234be24ff3
+    m_Address: Packages/com.celestegames.celeste/Twine/Data/TwineRecord.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bace2d58191513641a507ae3bfec2639
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/SaveCurrentTwineStory.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77073999cf2a6024bb021e3a7445a259
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/SaveTwineStory.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dd7bc7a09ee81943abca3ebb14bf4c4
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/CreateTwineStory.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3422a09a4ad058f4c99bcfcb445c84ae
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/OnTwineNodeRemovedFromStory.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4369a5c7727e2c428a02362e111d88e
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/RemoveTwineNode.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d584483da97d3184c9befbf8485ab661
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/OnLoadTwineStoryFromRecord.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eaaf5c6ed9981f74db234bab0d7d507d
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/ShowEditTwineNodePopup.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6954fb9e61ce1b84e857d6152daba350
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/AddTwineNode.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 482084dedd71bcf489628ba59de3baa8
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/FollowTwineNodeLink.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dc4d74cdaedd4e4b913c5c590be89b2
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/Atlases/BlueSpriteAtlas.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0aeb1ddf3c8c5ee48b82aed37cf32c24
+    m_Address: Packages/com.celestegames.celeste/Twine/Events/SaveTwineRecord.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c018ee0bbc759b4393f0a1095be064d
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button10.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93b191518411679408e562bdf59f3468
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button08.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96a0c571461b09b40b134c17837de72c
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button06.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d0d5103dd106b84e99004b824496c35
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button00.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a72ff0e326695a84db55cb63dfc78b29
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_checkmark.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d1c51d405ea0ae46a9ab16e32a270b6
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_tick.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d6866f5e8bdf4f4ba30cebf12d73d8a
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86babc3607c247d47b0d009105f16820
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a19f0907b57f0b348a146811d1673e79
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button07.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1934ca7ab2759248aec550f2b70b615
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_sliderUp.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f26b5999f436335408d2014baebe49d4
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_circle.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6760f10a9690df740814665ddaf1658d
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_sliderDown.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1de3b3eae99b0a643a0e0be50ceb6666
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80b05b7b5ad131a4598ec326f1617008
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button01.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 052464bc791985c4b921076a234d1dab
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_cross.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 964ecc7de1527a84eafe6f184cba6a16
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_panel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75cae1dd1ec7c964cac687870942a5d7
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_sliderLeft.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25f454ddba5aa154a8f186447c5e7b52
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_boxTick.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41e678dd504e105478977d536bd3c6b5
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_button09.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b493a98e855ce6f408a27c0cf0045d13
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_sliderRight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 572904efd4b89e1488e7d1a3054ae5e3
+    m_Address: Packages/com.celestegames.celeste/UI/Textures/PNG/Blue/blue_boxCheckmark.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96829beb543e61440bc4fc0eef472618
+    m_Address: Packages/com.celestegames.celeste/Twine/Data/UI/FollowLinkUISettings.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86a5c64ba0714ba4a9f6bbabe5b0ebf6
+    m_Address: Packages/com.celestegames.celeste/Twine/Debug/TwinePersistenceDebugMenu.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0f3bc1b9c650504998b5d46407fff1f
+    m_Address: GameSystems
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8205a5d248f9ffa46aae2f6344459680
+    m_Address: GameSystemsDebug
+    m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0

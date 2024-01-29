@@ -15,4 +15,5 @@ MonoBehaviour:
   showOutputInLoadingScreen: 1
   loadJobs:
   - {fileID: 11400000, guid: f522e58df50dcce498dd409adbd56779, type: 2}
+  - {fileID: 11400000, guid: efcf028dd8a83934199ab417be947688, type: 2}
   - {fileID: 11400000, guid: c81e196732906064ba6a2eeef2b9a813, type: 2}

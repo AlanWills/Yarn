@@ -20,11 +20,17 @@ MonoBehaviour:
     sceneId: EngineSystems
     isDebugOnly: 0
   - sceneType: 1
+    sceneId: GameSystems
+    isDebugOnly: 0
+  - sceneType: 1
+    sceneId: GameSystemsDebug
+    isDebugOnly: 1
+  - sceneType: 1
     sceneId: Twine
     isDebugOnly: 0
   - sceneType: 1
     sceneId: TwineDebug
     isDebugOnly: 1
   unloadResourcesOnLoad: 1
-  isDebugBuild: {fileID: 0}
+  isDebugBuild: {fileID: 11400000, guid: 50039586d3d71834c8dbb6af9cae319c, type: 2}
   checkForMissingComponents: 1
