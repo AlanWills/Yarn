@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Default Local Group
+  m_Name: CommonAddressables
   m_EditorClassIdentifier: 
-  m_GroupName: Default Local Group
+  m_GroupName: CommonAddressables
   m_Data:
     m_SerializedData: []
   m_GUID: ead9d0b4baafb484b9bbf510d61fb361
@@ -20,125 +20,155 @@ MonoBehaviour:
   - m_GUID: cb1ae6fee88009f45b47da8eb4ab3c3d
     m_Address: Loading
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: bd6d3f7075912664291708bc60cdd614
     m_Address: EngineSystems
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 40bfe04a3ce0d394a881d12975d5ea56
     m_Address: Assets/EngineSystems/Scenes/EngineSystemsSceneSet.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f522e58df50dcce498dd409adbd56779
     m_Address: Assets/Bootstrap/Steps/LoadEngineSystemsSceneSet.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9b99b28bb26d4964ca35c918c0588a27
     m_Address: Assets/Bootstrap/Steps/BootstrapLoadJob.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: fb97b8612f4f7284a8fe8cff27ea82c0
     m_Address: Bootstrap
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7d1f435b4cfa4084dbe27ade0afba65a
     m_Address: Assets/Bootstrap/Scenes/BootstrapSceneSet.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 827532d740637634bb22ffa26ab89a21
     m_Address: Twine
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ea3aff85a1f9b9343a4d5240b3105e68
     m_Address: TwineDebug
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 55f8fa66c4a44d248a9114cfe05c1a21
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Parameters/MusicEnabled.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8fa3ec8d517dd664e87b65d78b0cebbf
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Parameters/ShuffleMusic.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 3eed6292d3a31404d902c0f0c8f58f95
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Parameters/SFXEnabled.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2d29920b3d6cd3042ba61ee81ce76db6
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/MusicEnabledChanged.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 19f3c0a08f26f3d458a39303193882d8
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlayMusicOneShotWithRawClip.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 77d139f7eebbec040b12fa6b96d97e56
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlayMusicOneShotWithSettings.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 2eabb83eedd9f1f40ad53dc01363b3d7
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlayMusicWithRawClip.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 8fcb2e881d8bae8478459cdea4c03987
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlayMusicWithSettings.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 48cb7be28c92f1944aed44df0a6c29c2
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlaySFXOneShotWithRawClip.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f1ffbf999282feb4abd8cc07f2836f7a
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlaySFXOneShotWithSettings.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ef966062692627148a3dd8fe640184f2
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlaySFXWithRawClip.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ae28b226b0f5c24488d154804a34afa7
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/PlaySFXWithSettings.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: cb8842c1d047ec7499fb7294f61d3a52
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/SFXEnabledChanged.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f97fdab5490543c40bd651e0e501828b
     m_Address: Packages/com.celestegames.celeste/Sound/Data/Events/StopMusic.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a82e78554ed4bf946a62fa033513a026
     m_Address: Assets/Sound/Data/SFXSettingsUsingAddressables.asset
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - CommonAddressables
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9d71bf1883605a04b9bd356806b61885
     m_Address: Assets/Sound/Data/MusicSettingsUsingAddressables.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - CommonAddressables
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50039586d3d71834c8dbb6af9cae319c
+    m_Address: Packages/com.celestegames.celeste/Debug/Data/Parameters/IsDebugBuild.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -148,3 +178,4 @@ MonoBehaviour:
     m_Schemas:
     - {fileID: 11400000, guid: 2d53685d5c91e1d4ba99e1435f6e9859, type: 2}
     - {fileID: 11400000, guid: d5a0bff594c94824585bea785b4648cc, type: 2}
+    - {fileID: 11400000, guid: 99c4cc665c2c77344b6332e7093f424e, type: 2}
