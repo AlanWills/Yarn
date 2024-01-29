@@ -42,7 +42,7 @@ MonoBehaviour:
   m_CustomContentStateBuildPath: 
   m_ContentStateBuildPath: 
   m_BuildAddressablesWithPlayerBuild: 0
-  m_overridePlayerVersion: '[UnityEditor.PlayerSettings.bundleVersion]'
+  m_overridePlayerVersion: res
   m_GroupAssets:
   - {fileID: 11400000, guid: 2388ad206f7373a44a26a5ca082c8e2e, type: 2}
   - {fileID: 11400000, guid: 2144d5ad4bfb63e429ee0d7c06a65de6, type: 2}
@@ -64,9 +64,9 @@ MonoBehaviour:
       - m_Id: 9c58c3b2a5efac140aa7dd917e85c0a5
         m_Value: '{UnityEngine.AddressableAssets.Addressables.RuntimePath}/[BuildTarget]'
       - m_Id: 70fe9b234a9d33b418d3ec520262a4cf
-        m_Value: ServerData/[BuildTarget]
+        m_Value: ServerData/Android/Debug/0.0
       - m_Id: e17cb8e11371cc7498d63bd32aa420e7
-        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+        m_Value: https://storage.googleapis.com/celeste-games/yarn/ServerData/Android/Debug/0.0
     m_ProfileEntryNames:
     - m_Id: 77eeb3ca19630f94d8a3727a2a884bcf
       m_Name: BuildTarget
